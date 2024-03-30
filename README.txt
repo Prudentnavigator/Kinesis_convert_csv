@@ -17,8 +17,8 @@ Here are the steps involved in using the script:
 4. Select either Koinly, Cointracker.info or 'q' to quit.
 5. Select the Kinesis trade history.csv file when prompted by entering its name, or 
     type 'q' to quit the script.
-6. The script will create a new .csv file named ``Kinesis_to_Koinly.csv`` or
-    ''Kinesis_to_Cointracker.csv'' in the same directory as the input file
+6. The script will create a new .csv file named `Kinesis_to_Koinly.csv` or
+    'Kinesis_to_Cointracker.csv' in the same directory as the input file
     containing the data converted to Koinly format.
 
 Note:
